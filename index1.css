@@ -1,0 +1,37 @@
+h1 {
+    font-size: 4em;
+	font-family: 'Merriweather', serif;
+}
+
+#newtons-citation {
+	font-family: 'Oswald', sans-serif;
+}
+
+body {
+	font-size: 2em;
+    background-color: floralwhite;
+	font-family: 'Muli', sans-serif;
+}
+
+#main-text {
+	padding-bottom: 2em;
+}
+
+img {
+    margin: auto;
+    width: 30em;
+    padding: 1em 0;
+	padding-bottom: 2em;
+}
+
+body footer {
+	border-top: solid chocolate 1px;
+	padding: 20px;
+	background-color: #4E2F2F;
+}
+
+#assinatura {
+	color: aliceblue;
+	
+font-family: 'Sarpanch', sans-serif;
+}
